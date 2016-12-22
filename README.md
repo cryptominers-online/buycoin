@@ -1,7 +1,7 @@
 Buycoin integration/staging tree
 ================================
 
-http://www.buycoin.org
+http://www.buy-coin.me
 
 Copyright (c) 2009-2013 Buycoin Developers
 
@@ -15,7 +15,7 @@ out collectively by the network. Buycoin is also the name of the open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Buycoin client software, see http://www.buycoin.org.
+the Buycoin client software, see http://www.buy-coin.me.
 
 License
 -------
